@@ -1,0 +1,7 @@
+name: NoCraftingSystem
+version: '${project.version}'
+main: me.shreyasayyengar.nocraftingsystem.NoCraftingPlugin
+api-version: 1.18
+prefix: NoCraftingSystem
+author: Shreyas Ayyengar
+description: Blocks players from opening crafting tables, furnaces, smokers etc

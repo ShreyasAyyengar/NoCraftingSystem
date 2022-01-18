@@ -1,0 +1,37 @@
+#   ███╗  ██╗ █████╗  █████╗ ██████╗  █████╗ ███████╗████████╗██╗███╗  ██╗ ██████╗  ██████╗██╗   ██╗ ██████╗████████╗███████╗███╗   ███╗
+#   ████╗ ██║██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝╚══██╔══╝██║████╗ ██║██╔════╝ ██╔════╝╚██╗ ██╔╝██╔════╝╚══██╔══╝██╔════╝████╗ ████║
+#   ██╔██╗██║██║  ██║██║  ╚═╝██████╔╝███████║█████╗     ██║   ██║██╔██╗██║██║  ██╗ ╚█████╗  ╚████╔╝ ╚█████╗    ██║   █████╗  ██╔████╔██║
+#   ██║╚████║██║  ██║██║  ██╗██╔══██╗██╔══██║██╔══╝     ██║   ██║██║╚████║██║  ╚██╗ ╚═══██╗  ╚██╔╝   ╚═══██╗   ██║   ██╔══╝  ██║╚██╔╝██║
+#   ██║ ╚███║╚█████╔╝╚█████╔╝██║  ██║██║  ██║██║        ██║   ██║██║ ╚███║╚██████╔╝██████╔╝   ██║   ██████╔╝   ██║   ███████╗██║ ╚═╝ ██║
+#   ╚═╝  ╚══╝ ╚════╝  ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   ╚═╝╚═╝  ╚══╝ ╚═════╝ ╚═════╝    ╚═╝   ╚═════╝    ╚═╝   ╚══════╝╚═╝     ╚═╝
+
+
+# Disable = true
+# Enable = false
+inventories: true
+  CHEST: true
+  DISPENSER: true
+  DROPPER: true
+  FURNACE: true
+  WORKBENCH: true
+  CRAFTING: true
+  ENCHANTING: true
+  BREWING: true
+  PLAYER: true
+  CREATIVE: true
+  MERCHANT: true
+  ENDER_CHEST: true
+  ANVIL: true
+  SMITHING: true
+  BEACON: true
+  HOPPER: true
+  SHULKER_BOX: true
+  BARREL: true
+  BLAST_FURNACE: true
+  LECTERN: true
+  SMOKER: true
+  LOOM: true
+  CARTOGRAPHY: true
+  GRINDSTONE: true
+  STONECUTTER: true
+  COMPOSTER: true
